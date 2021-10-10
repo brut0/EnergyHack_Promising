@@ -17,7 +17,7 @@
 Установка с помощью Docker:
 - docker-compose build
 - docker-compose up
-- run: http://172.18.0.2:5000/ 
+- run: http://127.0.0.1:5000/ 
 
 ### Реализация телеграм бота в папке telegram bot
 Прототив сервиса доступно по адресу:  
