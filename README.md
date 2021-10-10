@@ -26,6 +26,6 @@
 
 
 ## Команда проекта
-Сергей Земсков[<img src=https://github.com/png2378/telegram-icon-updater/blob/master/icons/icomute_22_0.png width="16" height="16"/>](https://t.me/sergiozemskov)  
-Александр Шупов 
+Сергей Земсков[<img src=https://github.com/png2378/telegram-icon-updater/blob/master/icons/icomute_22_0.png width="16" height="16"/>](https://t.me/sergiozemskov)   
+Александр Шупов  
 Михаил Павлов 
