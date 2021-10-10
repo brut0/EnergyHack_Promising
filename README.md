@@ -14,7 +14,7 @@
 -
 
 ### Реализация веб сервиса в папке flask
-Установка с помощью Docker:
+Запуск с помощью Docker:
 - docker-compose build
 - docker-compose up
 - run: http://127.0.0.1:5000/ 
